@@ -34,6 +34,7 @@
 		5804A38E2AC1C71700294449 /* APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClient.swift; sourceTree = "<group>"; };
 		5804A3902AC1C73F00294449 /* ImageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageService.swift; sourceTree = "<group>"; };
 		5804A3922AC1C76E00294449 /* Formatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Formatter.swift; sourceTree = "<group>"; };
+		5804A3942AC1C90100294449 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		58417E282AC0D37400D71B7E /* test-vkus-sovet-uikit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "test-vkus-sovet-uikit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		58417E2B2AC0D37400D71B7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		58417E2D2AC0D37400D71B7E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -89,6 +90,7 @@
 		58417E1F2AC0D37400D71B7E = {
 			isa = PBXGroup;
 			children = (
+				5804A3942AC1C90100294449 /* README.md */,
 				58417E2A2AC0D37400D71B7E /* test-vkus-sovet-uikit */,
 				58417E292AC0D37400D71B7E /* Products */,
 			);
