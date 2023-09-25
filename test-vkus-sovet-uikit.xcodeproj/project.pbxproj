@@ -7,19 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5804A3812AC1C05900294449 /* GreyRoundedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5804A3802AC1C05900294449 /* GreyRoundedCell.swift */; };
+		5804A3832AC1C55600294449 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5804A3822AC1C55600294449 /* TabBarViewController.swift */; };
+		5804A3852AC1C57100294449 /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5804A3842AC1C57100294449 /* CartViewController.swift */; };
+		5804A3872AC1C57B00294449 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5804A3862AC1C57B00294449 /* InfoViewController.swift */; };
+		5804A38A2AC1C69F00294449 /* MenuModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5804A3892AC1C69F00294449 /* MenuModel.swift */; };
+		5804A38C2AC1C6AD00294449 /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5804A38B2AC1C6AD00294449 /* ProductModel.swift */; };
+		5804A38F2AC1C71700294449 /* APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5804A38E2AC1C71700294449 /* APIClient.swift */; };
+		5804A3912AC1C73F00294449 /* ImageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5804A3902AC1C73F00294449 /* ImageService.swift */; };
+		5804A3932AC1C76E00294449 /* Formatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5804A3922AC1C76E00294449 /* Formatter.swift */; };
 		58417E2C2AC0D37400D71B7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58417E2B2AC0D37400D71B7E /* AppDelegate.swift */; };
 		58417E2E2AC0D37400D71B7E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58417E2D2AC0D37400D71B7E /* SceneDelegate.swift */; };
-		58417E302AC0D37400D71B7E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58417E2F2AC0D37400D71B7E /* ViewController.swift */; };
+		58417E302AC0D37400D71B7E /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58417E2F2AC0D37400D71B7E /* RootViewController.swift */; };
 		58417E332AC0D37400D71B7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58417E312AC0D37400D71B7E /* Main.storyboard */; };
 		58417E352AC0D37500D71B7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58417E342AC0D37500D71B7E /* Assets.xcassets */; };
 		58417E382AC0D37500D71B7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58417E362AC0D37500D71B7E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5804A3802AC1C05900294449 /* GreyRoundedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreyRoundedCell.swift; sourceTree = "<group>"; };
+		5804A3822AC1C55600294449 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		5804A3842AC1C57100294449 /* CartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewController.swift; sourceTree = "<group>"; };
+		5804A3862AC1C57B00294449 /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		5804A3892AC1C69F00294449 /* MenuModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuModel.swift; sourceTree = "<group>"; };
+		5804A38B2AC1C6AD00294449 /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
+		5804A38E2AC1C71700294449 /* APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClient.swift; sourceTree = "<group>"; };
+		5804A3902AC1C73F00294449 /* ImageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageService.swift; sourceTree = "<group>"; };
+		5804A3922AC1C76E00294449 /* Formatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Formatter.swift; sourceTree = "<group>"; };
 		58417E282AC0D37400D71B7E /* test-vkus-sovet-uikit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "test-vkus-sovet-uikit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		58417E2B2AC0D37400D71B7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		58417E2D2AC0D37400D71B7E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		58417E2F2AC0D37400D71B7E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		58417E2F2AC0D37400D71B7E /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		58417E322AC0D37400D71B7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		58417E342AC0D37500D71B7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58417E372AC0D37500D71B7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -37,6 +55,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5804A37F2AC1C01500294449 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				58417E2F2AC0D37400D71B7E /* RootViewController.swift */,
+				5804A3802AC1C05900294449 /* GreyRoundedCell.swift */,
+				5804A3822AC1C55600294449 /* TabBarViewController.swift */,
+				5804A3842AC1C57100294449 /* CartViewController.swift */,
+				5804A3862AC1C57B00294449 /* InfoViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		5804A3882AC1C68100294449 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5804A3892AC1C69F00294449 /* MenuModel.swift */,
+				5804A38B2AC1C6AD00294449 /* ProductModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5804A38D2AC1C6D400294449 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				5804A38E2AC1C71700294449 /* APIClient.swift */,
+				5804A3902AC1C73F00294449 /* ImageService.swift */,
+				5804A3922AC1C76E00294449 /* Formatter.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
 		58417E1F2AC0D37400D71B7E = {
 			isa = PBXGroup;
 			children = (
@@ -56,9 +105,11 @@
 		58417E2A2AC0D37400D71B7E /* test-vkus-sovet-uikit */ = {
 			isa = PBXGroup;
 			children = (
+				5804A38D2AC1C6D400294449 /* Services */,
+				5804A3882AC1C68100294449 /* Model */,
+				5804A37F2AC1C01500294449 /* ViewControllers */,
 				58417E2B2AC0D37400D71B7E /* AppDelegate.swift */,
 				58417E2D2AC0D37400D71B7E /* SceneDelegate.swift */,
-				58417E2F2AC0D37400D71B7E /* ViewController.swift */,
 				58417E312AC0D37400D71B7E /* Main.storyboard */,
 				58417E342AC0D37500D71B7E /* Assets.xcassets */,
 				58417E362AC0D37500D71B7E /* LaunchScreen.storyboard */,
@@ -138,8 +189,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				58417E302AC0D37400D71B7E /* ViewController.swift in Sources */,
+				5804A38A2AC1C69F00294449 /* MenuModel.swift in Sources */,
+				5804A3812AC1C05900294449 /* GreyRoundedCell.swift in Sources */,
+				58417E302AC0D37400D71B7E /* RootViewController.swift in Sources */,
+				5804A38F2AC1C71700294449 /* APIClient.swift in Sources */,
 				58417E2C2AC0D37400D71B7E /* AppDelegate.swift in Sources */,
+				5804A38C2AC1C6AD00294449 /* ProductModel.swift in Sources */,
+				5804A3932AC1C76E00294449 /* Formatter.swift in Sources */,
+				5804A3872AC1C57B00294449 /* InfoViewController.swift in Sources */,
+				5804A3832AC1C55600294449 /* TabBarViewController.swift in Sources */,
+				5804A3912AC1C73F00294449 /* ImageService.swift in Sources */,
+				5804A3852AC1C57100294449 /* CartViewController.swift in Sources */,
 				58417E2E2AC0D37400D71B7E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
